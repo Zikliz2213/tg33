@@ -3,7 +3,7 @@ const API_URL = 'tg3-production.up.railway.app';
 // ======================================================
 // MOCK MODE — поменяй на true чтобы работать без сервера
 // ======================================================
-export const USE_MOCK = false;
+export const USE_MOCK = true;
 
 const mockDelay = () => new Promise(res => setTimeout(res, 400));
 
