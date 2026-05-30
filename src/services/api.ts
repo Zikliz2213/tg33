@@ -1,4 +1,4 @@
-const API_URL = 'https://tg3-production.up.railway.app/';
+const API_URL = 'https://tg3-production.up.railway.app';
 
 // ======================================================
 // MOCK MODE — поменяй на true чтобы работать без сервера
